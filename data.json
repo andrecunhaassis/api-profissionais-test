@@ -1,0 +1,22 @@
+{
+    "profissionais": [
+      {
+        "id": 1,
+        "nome": "João Silva",
+        "categorias": ["eletricista", "encanador"],
+        "detalhes": {
+          "telefone": "1234-5678",
+          "email": "joao.silva@example.com"
+        }
+      },
+      {
+        "id": 2,
+        "nome": "Maria Oliveira",
+        "categorias": ["fotografo", "designer"],
+        "detalhes": {
+          "telefone": "8765-4321",
+          "email": "maria.oliveira@example.com"
+        }
+      }
+    ]
+  }
