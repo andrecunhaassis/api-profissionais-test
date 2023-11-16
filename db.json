@@ -1,22 +1,54 @@
 {
-    "profissionais": [
-      {
-        "id": 1,
-        "nome": "João Silva",
-        "categorias": ["eletricista", "encanador"],
-        "detalhes": {
-          "telefone": "1234-5678",
-          "email": "joao.silva@example.com"
-        }
-      },
-      {
-        "id": 2,
-        "nome": "Maria Oliveira",
-        "categorias": ["fotografo", "designer"],
-        "detalhes": {
-          "telefone": "8765-4321",
-          "email": "maria.oliveira@example.com"
-        }
+  "profissionais": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "categoria": "eletricista",
+      "descricao": "Serviços de instalação e manutenção elétrica residencial e comercial.",
+      "detalhes": {
+        "telefone": "1234-5678",
+        "email": "joao.silva@example.com"
       }
-    ]
-  }
+    },
+    {
+      "id": 2,
+      "nome": "Maria Oliveira",
+      "categoria": "fotografa",
+      "descricao": "Fotografia profissional para eventos, retratos e campanhas publicitárias.",
+      "detalhes": {
+        "telefone": "8765-4321",
+        "email": "maria.oliveira@example.com"
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Gomes",
+      "categoria": "jardineiro",
+      "descricao": "Manutenção de jardins, poda de árvores e plantio de espécies variadas.",
+      "detalhes": {
+        "telefone": "1122-3344",
+        "email": "carlos.gomes@example.com"
+      }
+    },
+    {
+      "id": 4,
+      "nome": "Ana Beatriz",
+      "categoria": "cozinheira",
+      "descricao": "Preparação de refeições caseiras, eventos e aulas de culinária.",
+      "detalhes": {
+        "telefone": "5566-7788",
+        "email": "ana.beatriz@example.com"
+      }
+    },
+    {
+      "id": 5,
+      "nome": "Rafael Santos",
+      "categoria": "mecanico",
+      "descricao": "Reparos e manutenção automotiva, diagnóstico de problemas mecânicos.",
+      "detalhes": {
+        "telefone": "9988-7766",
+        "email": "rafael.santos@example.com"
+      }
+    }
+  ]
+}
